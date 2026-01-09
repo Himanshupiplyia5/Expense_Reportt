@@ -1,0 +1,5 @@
+category,amount,tax,total amount,expense type
+food,120.0,6.0,126.0,High
+travel,200.0,10.0,210.0,High
+food,50.0,2.5,52.5,Normal
+food,40.0,2.0,42.0,Normal
